@@ -1,0 +1,39 @@
+# Node modülleri
+node_modules/
+
+# Geliştirme ortamı dosyaları
+.env
+
+# OS ürettiği dosyalar
+.DS_Store
+Thumbs.db
+
+# Editör ayarları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Derleme çıktıları
+dist/
+build/
+# Node modülleri
+node_modules/
+
+# Geliştirme ortamı dosyaları
+.env
+
+# OS ürettiği dosyalar
+.DS_Store
+Thumbs.db
+
+# Editör ayarları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Derleme çıktıları
+dist/
+build/
+
